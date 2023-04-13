@@ -2,7 +2,7 @@
 <p align="justify">¡Bienvenido al Repositorio de la Guía de Valencia! Aquí encontrarás una colección de guías para la hermosa ciudad de Valencia, España. Ya seas turista o residente, estas guías te ayudarán a descubrir los mejores lugares para ver, comer, dormir y más.</p>
 
 <table align="right">
- <tr><td><a href="https://github.com/anjutares/Valencia-Guide/blob/main/README.md">🇬🇧 Inglés</a></td></tr>
+ <tr><td><a href="https://github.com/anjutares/Valencia-Guide/tree/main">🇬🇧 Inglés</a></td></tr>
  <tr><td><a href="https://github.com/anjutares/Valencia-Guide/blob/main/README-es.md">🇪🇸 Español</a></td></tr>
 </table>
 
